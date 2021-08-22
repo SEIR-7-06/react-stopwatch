@@ -1,0 +1,25 @@
+.watch {
+    text-align: center;
+    color: lightcyan;
+    margin-top: 0;
+    max-width: 20em;
+    border-radius: 1.5em;
+    background-color: rgba(128, 0, 0, 0.5);
+  }
+
+h1 {
+    margin-top: 0;
+}
+
+  h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.startBtn {
+    visibility: visible;
+}
+
+body {
+    justify-items: center;
+    align-items: center;
+}
